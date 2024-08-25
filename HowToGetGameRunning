@@ -1,0 +1,8 @@
+Instructions on how to run the game:
+
+1. Download python (any version past 2 should be fine!)
+2. Make sure you have an interpreter and have the path set correctly. 
+3. Download all files in one folder (keep it organized so the program can find the gifs and etc easily)
+4. Open up a terminal (Linux, VSCode, Windows etc) and navigate (cd) into the folder you are storing all of the files
+5. Run BoardClass.py (main file) using a command such as py.exe -3 .\BoardClass.py
+6. Enjoy!
