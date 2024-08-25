@@ -4,7 +4,8 @@
 This game is based off of the famous 1980 maze video game PacMan but with a twist! You as PacMan get to eat the ghosts!
 
 Goal: Eat more chips than the ghosts before time is up! If the ghosts eat more than 60% of the chips at any point of time, you automatically lose. Whomp Whomp :(
-
+** need to add info about the eating the ghosts makes them reswpwaen in the middle to keep them from eating more chips
+** add info they can only freeze the ghosts after eating the powerup
 How to Play:
 1. Press S to start the game
 2. Press P to pause the game
@@ -18,6 +19,8 @@ Note: Every board is randomly generated at the start of each game.
 
 PowerUps:
 You can freeze the ghosts for a few seconds by eating the Purple Star Powerup!
+1. Consume the power up first
+2. Eat any ghost 
 
 Creating Your Own Board:
 1. Press U to create your own board at any point of time!
